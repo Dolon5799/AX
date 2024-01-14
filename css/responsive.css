@@ -1,0 +1,296 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+ .header-section .navbar-toggler{
+  background: white !important;
+ }
+  .banner-section{
+    height: 59vh !important;
+  }
+ .banner-section .content {
+    height: 62vh !important;
+    text-align: center !important;
+}
+ .banner-section .content h1 {
+    font-size: 50px !important;
+    text-align: center !important;
+}
+.banner-section .content h2 {
+    font-size: 23px !important;
+    padding-right: 16px !important;
+    padding-left: 30px !important;
+    margin-top: 20px !important;
+}
+.banner-section .content .line {
+    margin-left: 140px !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+.banner-section .content p {
+    padding-right: 10px !important;
+    font-weight: 300 !important;
+    margin-top: -12px !important;
+}
+.main-form {
+    display: none !important;
+}
+.banner-section .btn-primary {
+    margin-left: -8px !important;
+    margin-top: 12px !important;
+}
+
+
+
+
+
+.body-section {
+    margin-top: 40px !important;
+    margin-left: 13px !important;
+    text-align: center !important;
+}
+.body-section .icon-box {
+    margin-left: 35px !important;
+}
+dl, ol, ul {
+    margin-top: 0;
+}
+
+
+
+
+.part-3 {
+    margin-top: 55px !important;
+    
+}
+.part-3 .col-lg-7 h3 {
+    margin-left: 24px !important;
+}
+.part-3 .col-lg-7 p {
+    margin-left: 27px !important;
+}
+.part-3 .col-lg-7 .btn-warning {
+    margin-left: 69px !important;
+}
+.part-3 .imgpart {
+    margin-left: 28px !important;
+    margin-top: 40px !important;
+}
+
+
+
+.part-4 {
+    margin-top: -77px !important;
+}
+.part-4 .picpart {
+    margin-left: -48px !important;
+}
+.sub {
+    text-align: center;
+}
+.part-4 .col-lg-6 .line {
+    margin-left: 135px !important;
+}
+p {
+    padding: 13px !important;
+}
+ .part-4 img{
+    width: 10% !important;
+    height: auto;
+    margin-left: -34px !important;
+    margin-bottom: 15px !important;
+}
+
+
+.part-5 {
+    margin-top: -65px !important;
+}
+.part-5 h2 {
+    margin-left: 42px !important;
+    margin-top: 20px !important;
+}
+.part-5 .col-lg-6 .line {
+    margin-left: 157px !important;
+}
+.part-5 p {
+    margin-left: 30px !important;
+   
+}
+.part-5 img{
+   margin-left: 0px !important;
+    width: 100% !important;
+    height: auto !important;
+
+}
+
+.standpic {
+    width: 100% !important;
+    height: auto !important;
+}
+
+
+
+.awesome-section {
+   
+    padding: 0px 0px !important;
+}
+.awesome-section .title h4 {
+    font-size: 25px !important;
+   
+}
+.awesome-section .title .line {
+    margin-bottom: 17px !important;
+}
+.awesome-section .icon-box .icon-box-inner .icon i {
+    font-size: 26px !important;
+    line-height: 55px;
+    margin: 2px 0px 2px !important;
+}
+.awesome-section .icon-box .icon-box-inner .list h4 {
+    
+    padding: 0px 13px !important;
+    font-size: 14px !important;
+}
+
+
+.Pricing-section {
+    
+    padding: 12px 0px !important;
+ 
+}
+.Pricing-section .title h2 {
+    font-size: 22px !important;
+    margin-top: 20px !important;  
+}
+.Pricing-section .title p {
+    margin-top: 2px !important;
+}
+
+
+
+.price-table {
+    margin-top: -20px !important;
+}
+
+
+.Reviews{
+    padding: 50px 0px !important;
+    margin-top: 0px !important;
+}
+
+.Reviews  .r-box{
+    margin-right: -45px !important;
+}
+.Reviews h4{
+    font-size: 22px !important;
+}
+.Reviews img, svg{
+    margin-left: 100px !important;
+}
+.Reviews .intro{
+    margin-top: 8px;
+    margin-left: 90px;
+}
+.stylish {
+    height: 32vh !important;
+   
+}
+
+.stylish .content {
+    text-align: center !important;
+    margin-top: 90px !important;
+}
+.stylish .content h2 {
+    font-size: 25px !important;
+    margin-top: 10px !important;
+}
+.stylish  .line {
+    margin-left: 140px !important;
+}
+
+
+.Contact {
+    padding: 0px 0px !important;
+}
+.Contact .cmt h2 {
+    font-size: 27px !important;
+    margin-top: 40px !important;
+}
+.Contact .cmt p {
+    font-size: 15px !important;
+    margin-top: 10px !important;
+}
+.form-section .content {
+    padding: 0px 40px !important;
+}
+.form-section input {
+    margin-bottom: 0px !important;
+    padding: 20px 0px !important;
+}
+.content1 textarea {
+    margin-bottom: 0px !important;
+    padding: 0px 0px !important;
+}
+.form-section .button {
+    margin-top: 30px !important;
+}
+}
